@@ -1,35 +1,28 @@
-YouTube Clone
-This project is a web-based clone of YouTube, aiming to replicate key features and design elements found on the popular video-sharing platform.
+# YouTube Clone
 
-Table of Contents
-Features
-Screenshots
-Installation
-Usage
-File Structure
-Contributing
-License
-Features
-Header Section
-The header includes:
+## Overview
 
-Hamburger menu for navigation.
-YouTube logo for branding.
-Search bar with options for text and voice search.
-Buttons for uploading videos, accessing YouTube apps, and viewing notifications.
-Profile picture of the current user.
-Sidebar Navigation
-The sidebar offers quick links to:
+This project is a simple YouTube clone, replicating basic features such as video browsing, searching, and a user interface similar to the original YouTube platform.
 
-Home
-Explore
-Subscriptions
-Originals
-YouTube Music
-Library
-Main Section (Video Grid)
-The main section features:
+## Features
 
-Responsive grid layout showcasing video previews.
-Each preview includes a thumbnail, title, channel author, view count, and upload date.
-Adaptive layout adjusts from 1 to 4 columns based on screen size.
+- **Home Page**: Displays video thumbnails with titles, views, and authors.
+- **Search Functionality**: Allows users to search for videos.
+- **Video Playback**: Displays video thumbnails and metadata.
+- **Sidebar**: Contains navigation options like Home, Explore, Subscriptions, and more.
+
+## Technologies Used
+
+- **HTML5**: Structure of the webpage.
+- **CSS3**: Styling the layout and ensuring responsiveness.
+- **JavaScript (Optional)**: For interactive features (if added).
+
+## How to Run
+
+1. Download or clone the repository.
+2. Open `youtube.html` in your browser to view the YouTube clone.
+
+## Future Enhancements
+
+- Add video playback functionality.
+- Implement a backend for user authentication and video uploads.
